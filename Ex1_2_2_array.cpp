@@ -3,7 +3,6 @@ using namespace std;
 
 struct point
 {
-    int value;
     int parent;
     int children {0};
 };
